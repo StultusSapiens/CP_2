@@ -18,7 +18,7 @@ class CardAnimationSystem {
         this.easing = 'cubic-bezier(0.645, 0.045, 0.355, 1.000)'; // Easing function
         
         // Hover animation configuration
-        this.hoverRotation = 4; // degrees
+        this.hoverRotation = .5; // degrees
         this.hoverElevation = 30; // px
 
         this.init();
